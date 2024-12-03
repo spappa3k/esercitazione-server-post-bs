@@ -6,5 +6,3 @@
 4 crea il file db.json e metti dentro i dati
 4 nel package.json sotto "scripts" dopo la riga di "test" scrivere "json":"json-server --watch db.json"   (puoi chiamare il server come vuoi anche "pippo")
 5 nel terminale "npm run json"
-
-
